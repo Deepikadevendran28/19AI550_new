@@ -51,6 +51,11 @@ public class PlayerJump : MonoBehaviour
 
 
 
+![Uploading image.png…]()
+
+
+![Uploading image.png…]()
+
 
 
 
